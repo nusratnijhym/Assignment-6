@@ -1,0 +1,14 @@
+body {
+    font-size: 15pt;
+    background-image: linear-gradient(to right,#56CCF2,#2F80ED);
+}
+.card-img-top{
+  height: 200px;
+  width: 80%;
+  display: block;
+  margin: auto;
+}
+
+#error{
+  display: none;
+}
